@@ -1,4 +1,3 @@
 # MatProjekt_Anthrax
-Repository for code used in Matematik 1 MatProjekt. 
 
-Her er Maple-filerne, der er blevet brugt i løbet af Matprojektet. 
+Her er Maple-filerne, der er blevet brugt i løbet af Matprojektet. De essentielle funktioner til bestemmelse af skadefunktioner hører alle under navnet matproj20x eller matproj28x
